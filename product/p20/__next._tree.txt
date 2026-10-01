@@ -1,2 +1,2 @@
-:HL["/_next/static/css/269ecf92f3e2b4d6.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"product","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"p20","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"5-Ds_qcS80TOgK0mAmq5-"}
+:HL["/_next/static/css/eb2dd66c5a8466fb.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4180,"slots":{"children":{"name":"product","param":null,"prefetchHints":4192,"slots":{"children":{"name":"id","param":{"type":"d","key":"p20","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"18R2SGCS6ZlCYi6AmvMdr"}
